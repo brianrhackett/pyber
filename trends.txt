@@ -1,0 +1,5 @@
+Observable Trands:
+
+	- Obviously, Urban cities represent the bulk of the data. It's interesting to not that the average fare for Urban centers is generally the lowest. Likely due to shorter distances between points of interest.
+	- The scatter for Rural cities is much more spacious, meaning there is a larger variance there, in addition to having the highest average fares, generally.
+	- It looks to me, as though being a driver in a suburban area is ideal. The relations between the number of drivers (low) and average fare (mid to high) suggest that a driver could pick up a decent amount of fares at a solid average rate.
